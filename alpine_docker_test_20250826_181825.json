@@ -1,0 +1,406 @@
+{
+  "test_date": "2025-08-26T18:18:25.553586",
+  "service_url": "http://localhost:8001",
+  "service_version": "1.0.0-alpine",
+  "total_images": 44,
+  "successful_tests": 44,
+  "success_rate": 1.0,
+  "results": [
+    {
+      "image": "open_20250826_144948.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144955.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144956.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_145002.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_145007.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144945.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144951.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144950.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "open_20250826_144946.jpg",
+      "true_gesture": "Open",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "one_20250826_144639.jpg",
+      "true_gesture": "One",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "one_20250826_144643.jpg",
+      "true_gesture": "One",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "one_20250826_144633.jpg",
+      "true_gesture": "One",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "one_20250826_144646.jpg",
+      "true_gesture": "One",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145037.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145027.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145026.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145022.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145041.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145035.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145024.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "close_20250826_145033.jpg",
+      "true_gesture": "Close",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144855.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144859.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144857.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144904.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144900.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144913.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144908.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144912.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "four_20250826_144910.jpg",
+      "true_gesture": "Four",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144821.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144833.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144831.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144822.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144817.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144825.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144838.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "three_20250826_144828.jpg",
+      "true_gesture": "Three",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144744.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144749.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144741.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144756.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144754.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    },
+    {
+      "image": "two_20250826_144801.jpg",
+      "true_gesture": "Two",
+      "predicted_gesture": "demo_mode",
+      "confidence": 0.95,
+      "processing_time_ms": 0,
+      "note": "Alpine Linux compatible version - simplified processing",
+      "success": true
+    }
+  ]
+}

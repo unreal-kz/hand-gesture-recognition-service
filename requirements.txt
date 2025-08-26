@@ -3,7 +3,12 @@ uvicorn[standard]==0.24.0
 python-multipart==0.0.6
 pillow==11.3.0
 numpy==1.26.4
+# Real ML packages for Alpine
 opencv-python-headless==4.9.0.80
-tensorflow==2.16.1
+# Use onnxruntime for inference (Alpine compatible)
+onnxruntime==1.16.3
+# Alternative to MediaPipe for hand detection
 mediapipe==0.10.21
+# Core ML dependencies
+protobuf==4.25.1
 python-json-logger==2.0.7

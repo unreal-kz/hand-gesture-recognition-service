@@ -7,6 +7,9 @@ services:
       - ./model:/app/model
     environment:
       - PYTHONPATH=/app
+      - BLAS=/usr/lib/libopenblas.so
+      - OPENBLAS_NUM_THREADS=1
+      - OPENCV_IO_MAX_IMAGE_PIXELS=2147483647
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
