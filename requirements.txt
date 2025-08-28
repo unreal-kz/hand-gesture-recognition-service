@@ -11,7 +11,6 @@ opencv-python-headless
 # ML dependencies
 mediapipe
 protobuf
-tensorflow-lite
 
 # Production dependencies
 prometheus-client

@@ -1,4 +1,4 @@
 venv/
-
-*/__pycache__/*
 __pycache__/*
+model/keypoint_classifier/__pycache__/keypoint_classifier.cpython-312.pyc
+test_simple_classifier.py
